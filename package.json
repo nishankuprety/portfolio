@@ -1,11 +1,6 @@
 {
   "homepage": "https://nishankuprety.github.io/portfolio",
   "name": "nishank-portfolio",
-  "version": "0.1.0"
-}
-
-{
-  "name": "nishank-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
